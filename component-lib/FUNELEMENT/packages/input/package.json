@@ -1,5 +1,5 @@
 {
-  "name": "fun-input",
+  "name": "fun-input1",
   "version": "0.0.2",
   "description": "",
   "main": "index.js",
@@ -11,5 +11,6 @@
   "license": "MIT",
   "dependencies": {
     "lodash": "3"
-  }
+  },
+  "gitHead": "c2e66b1d76ca6a711b1d305ce26971996067305f"
 }
